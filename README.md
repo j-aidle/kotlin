@@ -20,3 +20,5 @@
 - Escriu un programa que llegeixi 10 números, els emmagatzemi en un array, i utilitzant una funció imprimeixi els números en ordre ascendent.
 ## Exercici 10
 - Escriu un programa que llegeixi una cadena de text i compti el nombre de vocals.
+## Exercici 11
+- Crea una funció que rebi un array de números i retorni només els números parells.
