@@ -18,3 +18,5 @@
 - Escriu una funció que donat un nombre retorni el seu factorial.
 ## Exercici 9
 - Escriu un programa que llegeixi 10 números, els emmagatzemi en un array, i utilitzant una funció imprimeixi els números en ordre ascendent.
+## Exercici 10
+- Escriu un programa que llegeixi una cadena de text i compti el nombre de vocals.
