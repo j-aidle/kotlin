@@ -14,3 +14,7 @@
 - Escriu un programa que demani a l'usuari que introdueixi nombres fins que l'usuari introdueixi un zero, llavors imprimeixi la suma dels números introduïts.  
 ## Exercici 7
 - Crea un programa que llegeixi 5 números des de l'usuari, els emmagatzemi en un array i mostri la seva suma.
+## Exercici 8
+- Escriu una funció que donat un nombre retorni el seu factorial.
+## Exercici 9
+- Escriu un programa que llegeixi 10 números, els emmagatzemi en un array, i utilitzant una funció imprimeixi els números en ordre ascendent.
