@@ -30,4 +30,8 @@
 - Crea una classe Cotxe amb propietats per a la marca, el model i l’any. Afegeix un mètode per calcular l’edat del cotxe.
 ## Exercici 15
 - Crea una classe CompteBancari amb propietats per al número de compte i el saldo. Afegeix mètodes per ingressar i retirar diners.
+## Exercici 16
+-  Crea una classe Llibre amb propietats per al títol, l’autor i el preu. Afegeix un mètode per aplicar un descompte al preu.
+## Exercici 17
+- Crea una classe Estudiant amb propietats per al nom, l’edat i la nota mitjana. Afegeix un mètode per determinar si l’estudiant ha aprovat (nota mitjana >= 5).
 
