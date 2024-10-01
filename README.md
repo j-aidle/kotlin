@@ -24,3 +24,5 @@
 - Crea una funció que rebi un array de números i retorni només els números parells.
 ## Exercici 12
 - Escriu un programa que demani a l'usuari que introdueixi diversos números en un array, i després imprimeixi quants són positius, negatius o zeros.
+## Exercici 13
+- Crea una classe Persona amb propietats per al nom, l’edat i el país. Afegeix un mètode per mostrar la informació de la persona.
