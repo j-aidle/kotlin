@@ -28,4 +28,6 @@
 - Crea una classe Persona amb propietats per al nom, l’edat i el país. Afegeix un mètode per mostrar la informació de la persona.
 ## Exercici 14
 - Crea una classe Cotxe amb propietats per a la marca, el model i l’any. Afegeix un mètode per calcular l’edat del cotxe.
+## Exercici 15
+- Crea una classe CompteBancari amb propietats per al número de compte i el saldo. Afegeix mètodes per ingressar i retirar diners.
 
