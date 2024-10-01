@@ -26,3 +26,6 @@
 - Escriu un programa que demani a l'usuari que introdueixi diversos números en un array, i després imprimeixi quants són positius, negatius o zeros.
 ## Exercici 13
 - Crea una classe Persona amb propietats per al nom, l’edat i el país. Afegeix un mètode per mostrar la informació de la persona.
+## Exercici 14
+- Crea una classe Cotxe amb propietats per a la marca, el model i l’any. Afegeix un mètode per calcular l’edat del cotxe.
+
